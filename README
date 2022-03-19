@@ -1,1 +1,6 @@
-This is a COLAB SPACE. 
+Download in .zip
+unzip in your local Drive (pre train models included so its faster to unzip in your local HDD/SSD drive)
+Open your Google Drive application and Upload files and folders to a  cloud drive folder named: PyTorch_Deep_White_Balance-maste
+use tye Jupiter notebook on Colab-
+GPU backend required. 
+Pytorch 1.5.0 CUDA10 
